@@ -7,3 +7,11 @@
     background-image: url(images/brick-background.jpg);
     height: 450px;
 }
+
+.profile-image {
+    height: 320px;
+    width: 320px;
+    object-fit:cover;
+    object-position: 50% 20%;
+    border-radius: 100%;
+}
