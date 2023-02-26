@@ -6,6 +6,7 @@
 .bio {
     background: linear-gradient(rgba(58, 23, 0, 0.2), rgba(58, 23, 0, 0.2)),url(images/brick-background.jpg);
     height: 450px;
+    display: flex;
 }
 
 .profile-image {
