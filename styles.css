@@ -8,6 +8,7 @@
     height: 450px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .profile-image {
@@ -26,6 +27,6 @@
 
 .profile-image-container {
     padding-right: 10%;
-    align-items: center;
-    display: flex;
+    /*align-items: center;
+    display: flex;*/
 }
