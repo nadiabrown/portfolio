@@ -17,6 +17,7 @@
     object-fit:cover;
     object-position: 50% 20%;
     border-radius: 100%;
+    border: 5px solid #DDBBC0;
 }
 
 .bio-text {
