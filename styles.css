@@ -30,6 +30,7 @@
 .profile-image-container {
     padding-right: 10%;
     padding-top: 25%;
+    overflow: hidden;
 }
 
 .bio-text-header {
