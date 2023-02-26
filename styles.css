@@ -26,4 +26,6 @@
 
 .profile-image-container {
     padding-right: 10%;
+    align-items: center;
+    display: flex;
 }
