@@ -43,3 +43,14 @@
     font-family: 'Source Sans Pro';
     font-weight: 300;
 }
+
+@media only screen and (orientation: portrait)
+
+{
+    .profile-image {
+        height: 20vh;
+        width: 20vh;
+    }   
+}
+
+
