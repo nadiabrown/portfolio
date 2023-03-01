@@ -51,6 +51,17 @@
         height: 20vh;
         width: 20vh;
     }   
+
+    .bio-text-header {
+        font-size: 4vh;
+        font-family: 'Playfair Display';
+    }
+    
+    .bio-text-subheading {
+        font-size: 2vh;
+        font-family: 'Source Sans Pro';
+        font-weight: 300;
+    }
 }
 
 
