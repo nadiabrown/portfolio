@@ -34,12 +34,12 @@
 }
 
 .bio-text-header {
-    font-size: 3rem;
+    font-size: 4vw;
     font-family: 'Playfair Display';
 }
 
 .bio-text-subheading {
-    font-size: 1.5rem;
+    font-size: 2vw;
     font-family: 'Source Sans Pro';
     font-weight: 300;
 }
